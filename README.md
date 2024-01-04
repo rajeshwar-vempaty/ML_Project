@@ -1,4 +1,3 @@
-# ML_Project
 
 # School Shooting Incident Analysis Project
 
